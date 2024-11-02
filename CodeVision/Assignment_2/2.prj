@@ -7,8 +7,8 @@ A=Raham
 C=SnD Team
 D=11/2/2024 1:47:05 PM
 Files=1
-OpenedFiles=0
-AllowDisplayFunctionCallTree=0
+OpenedFiles=1
+AllowDisplayFunctionCallTree=1
 CleanUp=2
 DebugOutputListFilesDirectory=Debug\List
 DebugOutputObjectFilesDirectory=Debug
@@ -19,6 +19,16 @@ OutputObjectFilesDirectory=Release
 OutputExecutableFilesDirectory=Release\Exe
 OutputLinkerFilesDirectory=Release\Link
 F1=2.c
+EditorPanelMode=0
+ActiveEditorPanel=0
+Active0=0
+EditorPanel0=0
+PageIndex0=0
+OF1=2.c
+Active1=1
+EditorPanel1=0
+TimeStamp1=1499624698
+PageIndex1=1
 [CompilerDebug]
 Chip=ATmega32
 CPUClock=1000000
@@ -118,7 +128,7 @@ UseEEPROMLocation0=1
 RebuildAll=0
 LinkageInformationPresent=1
 COFFileTimeStamp=1499624700
-Build=17
+Build=18
 [DefinedSymbolsDebug]
 Count=0
 [Compiler]
@@ -220,7 +230,7 @@ UseEEPROMLocation0=1
 RebuildAll=1
 LinkageInformationPresent=0
 COFFileTimeStamp=-1
-Build=17
+Build=18
 IncludePath0=
 IncludePath1=
 IncludePath2=
@@ -530,3 +540,30 @@ F5=C:\cvavr\inc\stdio.h
 F6=C:\cvavr\inc\io.h
 F7=C:\cvavr\inc\stdarg.h
 F8=C:\cvavr\inc\string.h
+[Bookmarks0]
+Row=0
+Column=0
+ScrollPosX=0
+ScrollPosY=0
+TimeStamp=1499624741
+[BookmarksFoldedCode]
+Files=1
+F1=2.c
+[Bookmarks1]
+TimeStamp=1499624698
+Row=28
+Column=53
+ScrollPosX=0
+ScrollPosY=12
+BK0=-1
+BK1=-1
+BK2=-1
+BK3=-1
+BK4=-1
+BK5=-1
+BK6=-1
+BK7=-1
+BK8=-1
+BK9=-1
+[FoldedCode1]
+Blocks=0
