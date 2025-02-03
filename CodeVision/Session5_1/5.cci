@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:596A7710
+NODE:I LEVEL:0 LINE:8 "C:\cvavr\inc\io.h"
+NODE:I LEVEL:0 LINE:9 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:10 "C:\cvavr\inc\delay.h"
+NODE:F LEVEL:0 LINE:11 "my_int(void)"
+NODE:F LEVEL:0 LINE:22 "main(void)"

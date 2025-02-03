@@ -1,0 +1,17 @@
+/*
+ * s4_2.c
+ *
+ * Created: 11/23/2024 5:42:52 PM
+ * Author: omidt
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}

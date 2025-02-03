@@ -1,0 +1,17 @@
+/*
+ * 1.c
+ *
+ * Created: 1/29/2025 7:30:37 AM
+ * Author: omidt
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
